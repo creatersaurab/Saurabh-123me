@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Saurabh mehta</h1>
 <h3 align="center">I am Engeering Student from India</h3>
 
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saurabhmehta&label=Profile%20views&color=0e75b6&style=flat" alt="saurabhmehta" /> </p>
 
 - 🌱 I’m currently learning **frontend,and java**
@@ -13,7 +12,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/@saurabhkum65740" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@saurabhkum65740" height="30" width="40" /></a>
-alt="https://www.linkedin.com/in/saurabh-mehta-06321b263?lipi=urn%3ali%3apage%3ad_flagship3_profile_view_base_contact_details%3bc57oktejqbskenf4wr7%2fnw%3d%3d" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/saurabh-mehta-06321b263" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="saurabh-mehta-06321b263" height="30" width="40" /></a>
 <a href="https://instagram.com/saurabh_mehta8084" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="saurabh_mehta8084" height="30" width="40" /></a>
 </p>
 
